@@ -1,2 +1,2 @@
 # REST_01
-Capital city based on Country name
+Capital city based on Country name.
