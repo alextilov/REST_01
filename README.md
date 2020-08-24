@@ -168,8 +168,22 @@ Argument (country code) is missing
 ```
 
 ```console
+$ python capital_code.py ABC
+Country Code:   ABC;
+Capital:        API Returns an error: Country Code does not exist
+[Response time:  0.28  seconds]
+```
+
+```console
 $ python capital_name.py
 Argument (country name) is missing
+```
+
+```console
+$ python capital_name.py "Blah Blah"
+Country Name:   Blah Blah;
+Capital:        API Returns an error: Country Name does not exist
+[Response time:  0.22  seconds]
 ```
 
 ```console
