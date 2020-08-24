@@ -269,7 +269,7 @@ Capital:        Harare
 ### Return Capital by Country Name from File
 
 ```console
-$ python country.py country.csv
+$ python country.py countries.csv
 
 --------------------------------
 Country Name:   United States of America
