@@ -20,8 +20,9 @@ Python 3.8+
 ## Installation
 
 ```console
-$ pip install pyyaml
-$ pip install requests
+  pip install pyyaml
+  pip install requests
+  pip install html-testRunner
 ```
 ## Project structure
 
